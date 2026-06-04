@@ -10,3 +10,4 @@
 # Vedimao se funziona il nuovo ramo
 # e se funzionano anche i commmit su di esso.
 # Si direbbe di sì.
+# Verifichaimo eventuali cambiamenti al seguito di un merge.
