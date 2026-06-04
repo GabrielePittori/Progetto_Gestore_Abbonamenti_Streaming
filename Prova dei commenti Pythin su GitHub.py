@@ -9,3 +9,4 @@
 # ho caldo
 # Vedimao se funziona il nuovo ramo
 # e se funzionano anche i commmit su di esso.
+# Si direbbe di sì.
