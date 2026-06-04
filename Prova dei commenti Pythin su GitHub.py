@@ -6,4 +6,7 @@
 # ciaoooooo
 # e una pipa di 
 # ci vediamo domani alle 9
-# ho caldo 
+# ho caldo
+# Vedimao se funziona il nuovo ramo
+# e se funzionano anche i commmit su di esso.
+# Si direbbe di sì.
