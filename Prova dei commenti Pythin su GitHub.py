@@ -10,3 +10,5 @@
 # Vedimao se funziona il nuovo ramo
 # e se funzionano anche i commmit su di esso.
 # Si direbbe di sì.
+# Verifichaimo eventuali cambiamenti al seguito di un merge.
+# Si direbbe che sia possibile continuare a scrivere sul ramo tentativi7 anche dopo un merge.
